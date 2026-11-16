@@ -1,5 +1,15 @@
-# Teses — Legacy Research
 
-Acervo de pesquisas e análises produzidas pela Legacy Research.
+<p align="center">
+  <img src="assets/logo.png" width="180" alt="Legacy Research">
+</p>
 
-Cada pesquisa possui seus próprios dados, gráficos, códigos, fontes e atualizações.
+<h1 align="center">Legacy Research</h1>
+
+<p align="center">
+  <strong>Independent Macroeconomic & Financial Research Laboratory</strong>
+</p>
+
+<p align="center">
+  Dados. Método aberto. Erros à vista.
+</p>
+
